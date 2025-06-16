@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">retrofit2corrutinas</string>
     <string name="image_description">Dog Image</string>
+    <string name="random_dog">Random Dog Breed</string>
 </resources>
